@@ -5,7 +5,7 @@
 [A.J. Ristino](https://github.com/Ristinoa)
 [Aidan Morris](https://github.com/)
 
-### Relevant timeline: October 2023 - November 2024**
+### Relevant timeline: October 2023 - November 2024
 
 This repo contains our CS320 (Machine-Learning) final, testing a variety of training methods for commonly used ML models to discern their viability in classifying real and fake news articles. This project represents the culmination of our combined efforts in learning to understand, train, optimize, and apply ML models to a real-world task, as well as consider the implications of doing so.
 
