@@ -27,7 +27,7 @@ Special thanks to professor Anna Rafferty of the Carleton College Computer-Scien
 
 Our original dataset came from [Kaggle](https://www.kaggle.com/).
 
-The dataset iself can be found [Kaggle](https://www.kaggle.com/datasets/wsdmcup/wsdm-fake-news-classification).
+The dataset iself can be found [here](https://www.kaggle.com/datasets/wsdmcup/wsdm-fake-news-classification).
 
 For all other inquiries, please feel free to reach out to us:
 
