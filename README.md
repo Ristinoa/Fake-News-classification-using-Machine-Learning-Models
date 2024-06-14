@@ -3,7 +3,7 @@
 ### Contributors:
 
 [A.J. Ristino](https://github.com/Ristinoa)
-[Aidan Morris](https://github.com/)
+[Aidan Morris](https://github.com/AS-Morris)
 
 ### Relevant timeline: October 2023 - November 2024
 
@@ -32,3 +32,4 @@ The dataset iself can be found [here](https://www.kaggle.com/datasets/wsdmcup/ws
 For all other inquiries, please feel free to reach out to us:
 
 ajristino@gmail.com
+aidan@smith-morris.com
